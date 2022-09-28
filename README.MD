@@ -33,4 +33,4 @@ This is a dataset containing 1300 Iranian IT job advertisements in English from 
 |Keywords             |String     |List of technologies and skills required for a job                                                                 |
 
 ## Related Paper
-This dataset was collected by using a new crowdsourcing-based dataset gathering process. This process is published in a paper named "IranITJobs2021: a Dataset for Analyzing Iranian Online IT Job Advertisements Collected Using a New Crowdsourcing-based Dataset Gathering Process". This paper can be accessed [here](https://github.com/mrezasaeidi/IranITJobs2021/blob/main/IranITJobs2021.xlsx?raw=true).
+This dataset was collected by using a new crowdsourcing-based dataset gathering process. This process is published in a paper named "IranITJobs2021: a Dataset for Analyzing Iranian Online IT Job Advertisements Collected Using a New Crowdsourcing-based Dataset Gathering Process". This paper can be accessed [here](https://github.com/niktaakbarpour/IranITJobs2021/blob/main/IranITJobs2021:a_Dataset_for_Analyzing_Iranian_Online_IT_Job_Advertisements_Collected_Using_a_New_Crowdsourcing-based_Dataset_Gathering_Process.pdf).
